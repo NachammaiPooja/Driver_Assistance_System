@@ -23,26 +23,26 @@ This system consists of three inter-linked modules which are firstly, driver dro
 4.While using the Android App , permissions such as sms and location should be enabled.<br>
 5.Settings has to be changed for the email id which is used to send the alert.<br>
 
-<h3>Hardware of the System</h3>
+### Hardware of the System
 <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/hardware.PNG" height=500px>
 
-<h3>Use of Haar Cascade Algorithm to Monitor facial interactions of the driver.</h3>
-<h4>Eyes Open:</h4>
+### Use of Haar Cascade Algorithm to Monitor facial interactions of the driver.
+<h4> Eyes Open:</h4>
 <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/192.168.43.100%20-%20Remote%20Desktop%20Connection%20(eye%20open).png">
 
-<h4>Eyes Close:</h4>
+<h4> Eyes Close:</h4>
 <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/192.168.43.100%20-%20Remote%20Desktop%20Connection(eye%20close).png">
 
-<h3>Alerting phase consist of 2 different modules</h3>
-<h3>1 Mail </h3>
-<h4>For accident Occured:</h4>
+### Alerting phase consist of 2 different modules
+<h3> i) Mail </h3>
+<h4> For accident Occured:</h4>
  <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/mail(accident%20occured).jpeg" height=400px>
-<h4>For Drunken:</h4>
+<h4> For Drunken:</h4>
  <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/mail(drunken).png" height=400px>
-<h4>For sleeing:</h4>
+<h4> For sleeing:</h4>
  <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/mail(sleeping).png" height=400px>
 
-<h3>2 Msg </h3>
+<h3> ii) Msg </h3>
  <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/msg.jpeg" height=400px>
   
 <h1>Steps to Run the Prototype</h1>
