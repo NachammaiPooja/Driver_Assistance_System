@@ -28,10 +28,10 @@ This system consists of three inter-linked modules which are firstly, driver dro
 
 ### Use of Haar Cascade Algorithm to Monitor facial interactions of the driver.
 <h4> Eyes Open:</h4>
-<img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/192.168.43.100%20-%20Remote%20Desktop%20Connection%20(eye%20open).png">
+<img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/192.168.43.100%20-%20Remote%20Desktop%20Connection%20(eye%20open).png" height=500p>
 
 <h4> Eyes Close:</h4>
-<img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/192.168.43.100%20-%20Remote%20Desktop%20Connection(eye%20close).png">
+<img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/192.168.43.100%20-%20Remote%20Desktop%20Connection(eye%20close).png" height=400p>
 
 ### Alerting phase consist of 2 different modules
 <h3> i) Mail </h3>
