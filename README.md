@@ -42,8 +42,8 @@ This system consists of three inter-linked modules which are firstly, driver dro
 <h4> For sleeing:</h4>
  <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/mail(sleeping).png">
 
-<h3> ii) Msg </h3>
- <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/msg.jpeg" height=400px>
+<h3> ii) Message </h3>
+ <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/sms.jpeg">
   
 ### Steps to Run the Prototype
  1.Connect the Raspbery pi to Computer. (I used Remote Desktop Connection App in Windows 10)<br>
