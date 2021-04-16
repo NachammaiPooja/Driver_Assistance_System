@@ -36,7 +36,7 @@ This system consists of three inter-linked modules which are firstly, driver dro
 ### Alerting phase consist of 2 different modules
 <h3> i) Mail </h3>
 <h4> For accident Occured:</h4>
- <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/mail(accident).jpeg" height=400px>
+ <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/mail(accident).jpeg">
 <h4> For Drunken:</h4>
  <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/mail(drunken).png">
 <h4> For sleeing:</h4>
