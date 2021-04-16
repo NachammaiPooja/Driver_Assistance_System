@@ -27,7 +27,7 @@ This system consists of three inter-linked modules which are firstly, driver dro
 <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/hardware.PNG" height=500px>
 
 ### Use of Haar Cascade Algorithm to Monitor facial interactions of the driver.
-<h4> Eyes Open:</h4>
+<h3> Eyes Open:</h3>
 <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/192.168.43.100%20-%20Remote%20Desktop%20Connection%20(eye%20open).png">
 
 <h4> Eyes Close:</h4>
@@ -45,14 +45,14 @@ This system consists of three inter-linked modules which are firstly, driver dro
 <h3> ii) Msg </h3>
  <img src="https://github.com/NachammaiPooja/Driver_Assistance_System/blob/main/Output%20Images/msg.jpeg" height=400px>
   
-<h1>Steps to Run the Prototype</h1>
+### Steps to Run the Prototype
  1.Connect the Raspbery pi to Computer. (I used Remote Desktop Connection App in Windows 10)<br>
  2.Run the Python Program.(Main.py)<br>
  3.After Detection of any of the proposed event , an alert is raised.<br>
  4.Check your Email and Phone number for Alert message. <br>
  
  
- <h3>My Teammates </h3>
+ ### My Teammates 
  1.<a href="https://github.com/praveenkumar0211">Praveen Kumar</a><br>
  2.<a href="https://github.com/Aravind1411">Aravind P</a><br>
  3.<a href="https://github.com/prathyush2510">Prathyush S</a><br>
