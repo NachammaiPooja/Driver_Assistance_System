@@ -1,5 +1,5 @@
 # Driver Assistance System (DAS)
-This Repository contains all files related to Driver Assistance System Project.This is a Internally funded Project
+This Repository contains all files related to Driver Assistance System Project.This is a Internally funded Project. It has also been published as a research paper.
 
 ## Need for the Project
 The role of DAS is to prevent deaths and injuries by reducing the number of car accidents and the serious impact of those that cannot be avoided.The main reasons for accidents to occur are <b> alcohol consumption and drowsiness</b>.The research mainly focuses on developing a cost-efficient integrated driver assistance system which alerts the driver using buzzer and notifies the owner if he is drunk or drowsy.In case of an accident the system sends the location of the vehicle to the concerned persons.
@@ -50,6 +50,11 @@ This system consists of three inter-linked modules which are firstly, driver dro
  2.Run the Python Program.(Main.py)<br>
  3.After Detection of any of the proposed event , an alert is raised.<br>
  4.Check your Email and Phone number for Alert message. <br>
+ 
+ ## Research publication
+ URL: https://ieeexplore.ieee.org/document/9432361
+ CITATION :
+ V. P. Kumar, P. Aravind, S. N. D. Pooja, S. Prathyush, S. AngelDeborah and K. R. S. Chandran, "Driver Assistance System using Raspberry Pi and Haar Cascade Classifiers," 2021 5th International Conference on Intelligent Computing and Control Systems (ICICCS), 2021, pp. 1729-1735, doi: 10.1109/ICICCS51141.2021.9432361.
  
  
  ### My Teammates 
